@@ -1,27 +1,27 @@
 import logo from "./logo.svg";
 // import "./App.css";
-import Bigbox from "./components/Bigbox";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+import AboutMe from "./components/pages/AboutMe";
+import Contact from "./components/pages/Contact";
+import Portfolio from "./components/pages/Portfolio/";
 
 function App() {
   return (
-    //    <div className="App">
-    //      <header className="App-header">
-    //        <img src={logo} className="App-logo" alt="logo" />
-    //        <p>
-    //          Edit <code>src/App.js</code> and save to reload.
-    //        </p>
-    //        <a
-    //          className="App-link"
-    //          href="https://reactjs.org"
-    //          target="_blank"
-    //          rel="noopener noreferrer"
-    //        >
-    //          Learn React
-    //        </a>
-    //      </header>
-    //    </div>
-    <div className="bg-base-300">
-      <Bigbox />
+    <div>
+      <Router>
+        <Navbar />
+        <div className="mb-32">
+          <Routes>
+            <Route path="/sharkreac7" element={<AboutMe />}></Route>
+            <Route path="/sharkreac7/contact" element={<Contact />}></Route>
+            <Route path="/sharkreac7/portfolio" element={<Portfolio />}></Route>
+          </Routes>
+        </div>
+        <Footer />
+      </Router>
     </div>
   );
 }

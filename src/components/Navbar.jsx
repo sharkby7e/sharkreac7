@@ -26,13 +26,15 @@ function Navbar() {
             class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary opacity-100 rounded-box w-52"
           >
             <li>
-              <a>About</a>
+              <a href="/sharkreac7">About Me</a>
             </li>
             <li tabindex="0">
-              <a class="justify-between">Portfolio</a>
+              <a href="/sharkreac7/portfolio" class="justify-between">
+                Portfolio
+              </a>
             </li>
             <li>
-              <a>Contact</a>
+              <a href="/sharkreac7/contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -41,13 +43,13 @@ function Navbar() {
       <div class="navbar-end hidden lg:flex">
         <ul class="menu font-bold menu-horizontal p-0">
           <li>
-            <a>About</a>
+            <a href="/sharkreac7">About Me</a>
           </li>
           <li tabindex="0">
-            <a>Portfolio</a>
+            <a href="/sharkreac7/portfolio">Portfolio</a>
           </li>
           <li>
-            <a>Contact</a>
+            <a href="/sharkreac7/contact">Contact</a>
           </li>
         </ul>
       </div>

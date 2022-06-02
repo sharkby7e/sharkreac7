@@ -3,14 +3,6 @@ import React from "react";
 function Footer() {
   return (
     <footer class="fixed bottom-0 bg-base-300 footer footer-center p-10 text-base-content rounded">
-      <div class="grid grid-flow-col gap-4">
-        <a href="" class="link link-hover">
-          About Me
-        </a>
-        <a href="" class="link link-hover">
-          Contact
-        </a>
-      </div>
       <div>
         <div class="grid grid-flow-col gap-4">
           <a target="_blank" href="https://github.com/sharkby7e">
