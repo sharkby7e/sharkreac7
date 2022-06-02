@@ -10,7 +10,6 @@ For this iteration of my portfolio, I used React on the front end!
 
 [Click to view the deployed application](https://sharkby7e.github.io/sharkreac7/)
 
-
 ## Table of contents
 
 - [Technologies Employed](#technologies-employed)
@@ -41,5 +40,6 @@ Alternatively, visit my github:
 https://www.github.com/sharkby7e
 
 ## Summary and Learning Points
-It was much easier to use react for the portfolio on this project! I was able to make one component, 
+
+It was much easier to use react for the portfolio on this project! I was able to make one component,
 and then reuse it. I am excited to keep exploring how to use React!
