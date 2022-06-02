@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sharkreac7/static/css/main.286dad51.css",
+    "main.css": "/sharkreac7/static/css/main.a898d839.css",
     "main.js": "/sharkreac7/static/js/main.20412592.js",
     "static/js/787.5c7292cc.chunk.js": "/sharkreac7/static/js/787.5c7292cc.chunk.js",
     "static/media/sidAndCats.png": "/sharkreac7/static/media/sidAndCats.71877e82d81fb6ffa9ff.png",
@@ -13,12 +13,12 @@
     "static/media/resume.pdf": "/sharkreac7/static/media/resume.6b1a86e4a9af7c58ae40.pdf",
     "static/media/logo.svg": "/sharkreac7/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sharkreac7/index.html",
-    "main.286dad51.css.map": "/sharkreac7/static/css/main.286dad51.css.map",
+    "main.a898d839.css.map": "/sharkreac7/static/css/main.a898d839.css.map",
     "main.20412592.js.map": "/sharkreac7/static/js/main.20412592.js.map",
     "787.5c7292cc.chunk.js.map": "/sharkreac7/static/js/787.5c7292cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.286dad51.css",
+    "static/css/main.a898d839.css",
     "static/js/main.20412592.js"
   ]
 }
