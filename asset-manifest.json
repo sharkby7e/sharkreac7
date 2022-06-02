@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/sharkreac7/static/css/main.dfe716f4.css",
-    "main.js": "/sharkreac7/static/js/main.65497f27.js",
+    "main.css": "/sharkreac7/static/css/main.286dad51.css",
+    "main.js": "/sharkreac7/static/js/main.20412592.js",
     "static/js/787.5c7292cc.chunk.js": "/sharkreac7/static/js/787.5c7292cc.chunk.js",
+    "static/media/sidAndCats.png": "/sharkreac7/static/media/sidAndCats.71877e82d81fb6ffa9ff.png",
+    "static/media/AdventureQuest.png": "/sharkreac7/static/media/AdventureQuest.fbd4c9176c79624c2638.png",
+    "static/media/InventoryTracker.png": "/sharkreac7/static/media/InventoryTracker.e8f19dc516bf4d661cd4.png",
+    "static/media/WeatherDashboard.png": "/sharkreac7/static/media/WeatherDashboard.2ed1223e4ec029b989e4.png",
+    "static/media/JSeopardy.png": "/sharkreac7/static/media/JSeopardy.1891f1f67b0849943569.png",
+    "static/media/TechToday.png": "/sharkreac7/static/media/TechToday.a9399e904bb6174f402a.png",
+    "static/media/NoteTaker.png": "/sharkreac7/static/media/NoteTaker.bbd80910d605d3fd000f.png",
+    "static/media/resume.pdf": "/sharkreac7/static/media/resume.6b1a86e4a9af7c58ae40.pdf",
     "static/media/logo.svg": "/sharkreac7/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sharkreac7/index.html",
-    "main.dfe716f4.css.map": "/sharkreac7/static/css/main.dfe716f4.css.map",
-    "main.65497f27.js.map": "/sharkreac7/static/js/main.65497f27.js.map",
+    "main.286dad51.css.map": "/sharkreac7/static/css/main.286dad51.css.map",
+    "main.20412592.js.map": "/sharkreac7/static/js/main.20412592.js.map",
     "787.5c7292cc.chunk.js.map": "/sharkreac7/static/js/787.5c7292cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfe716f4.css",
-    "static/js/main.65497f27.js"
+    "static/css/main.286dad51.css",
+    "static/js/main.20412592.js"
   ]
 }
