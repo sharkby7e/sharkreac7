@@ -1,19 +1,22 @@
 import React from "react";
 
-const PortItem = () => {
+const PortItem = ({ project }) => {
   return (
     <div class="my-12 card w-80 bg-base-100 shadow-xl image-full">
       <figure>
-        <img
-          src="https://api.lorem.space/image/shoes?w=400&h=225"
-          alt="Shoes"
-        />
+        <img src={project.img} alt="Shoes" />
       </figure>
       <div class="card-body">
-        <h2 class="card-title">Shoes!</h2>
-        <p>If a dog chews shoes whose shoes does he choose?</p>
-        <div class="card-actions justify-end">
-          <button class="btn btn-primary">Buy Now</button>
+        <h2 class="card-title">{project.title}</h2>
+        <p>{project.description}</p>
+
+        <div class="card-actions justify-center">
+          <a href={project.deployed} target="_blank">
+            <button class="btn btn-primary">App</button>
+          </a>
+          <a href={project.repo} target="_blank">
+            <button class="btn btn-primary">Repo</button>
+          </a>
         </div>
       </div>
     </div>
